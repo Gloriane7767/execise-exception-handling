@@ -1,4 +1,4 @@
-package Exercise2;
+package com.gloriane.Exercise2;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

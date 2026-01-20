@@ -1,4 +1,4 @@
-package Exercise2;
+package com.gloriane.Exercise2;
 
 public class InvalidRangeException {
     /*
