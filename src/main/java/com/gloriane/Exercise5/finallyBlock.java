@@ -1,4 +1,4 @@
-package Exercise5;
+package com.gloriane.Exercise5;
 
 import java.util.Scanner;
 
